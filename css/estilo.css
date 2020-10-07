@@ -34,3 +34,13 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#footer {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    margin: 0px -18px -18px -18px;
+    font-size: 20px;
+    padding: 00.5em;
+}
