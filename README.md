@@ -10,4 +10,12 @@ Mi proyecto está publicado en el siguiente enlace.
 
 Por favor comenten y usenlo como material inicial para sus proyectos.
 
+##Este contenido es parte del curso de Git/Github de Platzi. Temas cubiertos en el curso:
+* Todos los comandos Git
+* El flujo de trabajo en Github
+* Mejores practicas en control de versiones con Git
+* Tips para resolver problema de código.
+
+Nota: Este archivo readme **es solo una prueba y no aporta información efectiva**.
+
 Bendiciones!
