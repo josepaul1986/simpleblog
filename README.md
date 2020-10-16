@@ -15,6 +15,7 @@ Por favor comenten y usenlo como material inicial para sus proyectos.
 * El flujo de trabajo en Github
 * Mejores practicas en control de versiones con Git
 * Tips para resolver problema de código.
+* Incluye ejemplos en Windows, Linux y Mac.
 
 Nota: Este archivo readme **es solo una prueba y no aporta información efectiva**.
 
